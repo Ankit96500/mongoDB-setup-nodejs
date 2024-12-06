@@ -31,7 +31,7 @@
 // }
 
 
-const dotenv = require(dotenv);
+const dotenv = require('dotenv');
 const mongodb = require('mongodb');
 const MongoClient = mongodb.MongoClient;
 
